@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706466079331",
+    "project_id": "spot-hole-88393",
+    "storage_bucket": "spot-hole-88393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706466079331:android:b05e69171e3d6b1235ce56",
+        "android_client_info": {
+          "package_name": "com.example.pitlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706466079331-5fu167hd5muu4bb161fj1vtbbfivfo26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbroD4z5M5igY4FBv5_XDEpG5W_bNhXzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706466079331-5fu167hd5muu4bb161fj1vtbbfivfo26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
